@@ -1,0 +1,58 @@
+body {
+    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blok {
+
+    margin: auto;
+    border: 5px solid rgb(97, 97, 97);
+    width: 500px;
+    height: 600px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: burlywood;
+}
+
+.potpis {
+
+    color: rgb(0, 162, 255);
+    float: right;
+}
+
+.blok p {
+
+    padding-left: 20px;
+}
+
+#krevet {
+
+    font-size: 25px;
+    padding-left: 9px;
+    padding-top: 20px;
+}
+
+#kupatilo { 
+    font-size: 25px;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: blue;
+    
+
+
+}
+
+#kuhinja {
+    font-size: 25px;
+    padding-left: 15px; 
+    padding-top: 10px;
+    color: brown;
+}
+
+#auto {
+    font-size: 25px;
+    padding-left: 13px; 
+    padding-top: 10px;
+    color: white;
+
+}
