@@ -1,0 +1,44 @@
+body {
+    background-color: grey;
+}
+
+
+.prva-kocka {
+    background-image: url(./css-background-effects-thumb.jpg);
+    width: 930px;
+    height: 470px;
+    display: inline-block;
+    border: solid black 1px;
+    color: blue;
+}
+
+.druga-kocka {
+    background-image: url(./NEuip.jpg);
+    width: 930px;
+    height: 470px;
+    background-color: aqua;
+    display: inline-block;
+    border: solid black 1px;
+}
+.treca-kocka {
+    background-image: url(./cover.jpg);
+    image-resolution: cover;
+    width: 930px;
+    height: 470px;
+    border: solid black 1px;
+    display: inline-block;
+
+}
+
+.cetvrta-kocka {
+    background-image: url("./Backgrounds_in_CSS.jpg") ;
+    width: 930px;
+    height: 470px;
+    display: inline-block;
+    border: solid black 1px;
+    
+    
+    
+    ;
+
+}
